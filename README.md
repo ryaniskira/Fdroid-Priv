@@ -32,3 +32,7 @@ v3
 v4
 * First public release
 * Privileged Extension 0.2.3
+
+v5
+* Privileged Extension 0.2.4
+* If you installed the zip from XDA, please remove that version before you upgrade to this one, thanks.
